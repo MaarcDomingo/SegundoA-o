@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clientes>
+        
+    <cliente DNI="12345678Z">
+                
+        <apellidos>FERNANDEZ FERNANDEZ</apellidos>
+                
+        <CP>07001</CP>
+            
+    </cliente>
+        
+    <cliente DNI="90123456A">
+                
+        <apellidos>ROMERO SOCIAS</apellidos>
+                
+        <CP>08123</CP>
+            
+    </cliente>
+        
+    <cliente DNI="78901234B">
+                
+        <apellidos>GOMEZ GONZALEZ</apellidos>
+                
+        <CP>28342</CP>
+            
+    </cliente>
+        
+    <cliente DNI="56789012C">
+                
+        <apellidos>FERRER VIDAL</apellidos>
+                
+        <CP>33070</CP>
+            
+    </cliente>
+        
+    <cliente DNI="34567890D">
+                
+        <apellidos>ALBERTI PLANAS</apellidos>
+                
+        <CP>07015</CP>
+            
+    </cliente>
+    
+    <cliente DNI="434918Y">
+        <apellidos>domingo</apellidos>
+        <CP>07007</CP>
+    </cliente>
+    <cliente DNI="737646474y4g">
+        <apellidos>a</apellidos>
+        <CP>a</CP>
+    </cliente>
+    <cliente DNI="5334343Y">
+        <apellidos>Domingo Aloy</apellidos>
+        <CP>07007</CP>
+    </cliente>
+    <cliente DNI="7637463764">
+        <apellidos>a</apellidos>
+        <CP>a</CP>
+    </cliente>
+    <cliente DNI="43463728y&#9;">
+        <apellidos>domingo aloy </apellidos>
+        <CP>y3y4y4</CP>
+    </cliente>
+</clientes>
