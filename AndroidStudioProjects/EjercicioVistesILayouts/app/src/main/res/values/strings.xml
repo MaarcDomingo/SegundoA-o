@@ -1,0 +1,8 @@
+<resources>
+    <string name="hello">Hola Mundo,Vistas y Layouts!</string>
+    <string name="enable_views">Activar Vistas</string>
+    <string name="myRadioButton">Boton Circular</string>
+    <string name="invisible">Invisible</string>
+    <string name="gone">Gone</string>
+    <string name="app_name">EjercicioVistesILayouts</string>
+</resources>

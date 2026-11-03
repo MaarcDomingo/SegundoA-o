@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FormularioAlContador</string>
+    <String-array name="opcionesSpinner">
+        <item>Apple</item>
+        <item>Samsung</item>
+        <item>Oppo</item>
+    </String-array>
+</resources>
+
