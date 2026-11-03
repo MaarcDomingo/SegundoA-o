@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desarollo de interfaces/Desarollo de interfaces.iml" filepath="$PROJECT_DIR$/Desarollo de interfaces/Desarollo de interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SegundoAño.iml" filepath="$PROJECT_DIR$/SegundoAño.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Acceso a datos/Tarea1.1/Tarea1.1.iml" filepath="$PROJECT_DIR$/Acceso a datos/Tarea1.1/Tarea1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Acceso a datos/Tareas 1.2/Tareas 1.2.iml" filepath="$PROJECT_DIR$/Acceso a datos/Tareas 1.2/Tareas 1.2.iml" />
+    </modules>
+  </component>
+</project>
